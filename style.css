@@ -1,0 +1,26 @@
+.heading{
+    font-size: 35px;
+    width: 100%;
+    margin:0px;
+    box-shadow:5px 5px 18px black;
+    
+    color: white;
+}
+.heading_div{
+    float:none;
+    background:white;
+    border-radius: 20px;
+    color:black;
+    padding: 10px;
+    box-shadow: 5px 5px 18px black;
+    font-size: 20px;
+}
+.heading_div2{
+    font-size: 17.5px;
+    color:black;
+}
+
+body background{
+    height: 1000px;
+    width: 2000px;
+}
